@@ -1,6 +1,6 @@
 <h2> Hi, I'm RAHUL V K! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" width="230">
-<p><em>Pursuing B.Tech at<a href="https://cemuttathara.ac.in/">College of Engineering, Muttathara</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Focused to create a STARTUP<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Pursuing B.Tech at <a href="https://cemuttathara.ac.in/">College of Engineering, Muttathara</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Focused to create a STARTUP<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Rahulvk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-v-k/)](https://www.linkedin.com/in/rahul-v-k/)
