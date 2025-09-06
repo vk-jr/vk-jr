@@ -21,9 +21,9 @@ const rahul = {
   Achievements: {
                         Top 105 Teams : "Google Solution Challenge",
                         Top 70 Teams : "IDE Bootcamp,MOE",
-                        Finalist : "Infosys Global Hackathon",
+                        Finalist(Top 33 All India): "Infosys Global Hackathon",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Python "
+ challenge: "Empowering businesses with AI automations and agents that enhance efficiency and unlock growth"
 }
 ```
 
