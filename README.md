@@ -21,6 +21,7 @@ const rahul = {
   Achievements: {
                         Top 105 Teams : "Google Solution Challenge",
                         Top 70 Teams : "IDE Bootcamp,MOE",
+                        Finalist : "Infosys Global Hackathon",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python "
 }
